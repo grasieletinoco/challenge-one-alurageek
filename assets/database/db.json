@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "imagem": "assets/img/aquaman.png",
+      "titulo": "Aquaman",
+      "preco": "199.00",
+      "id": "1"
+    },
+    {
+      "imagem": "assets/img/batman.png",
+      "titulo": "Batman",
+      "preco": "189.00",
+      "id": "2"
+    },
+    {
+      "imagem": "assets/img/hulk.png",
+      "titulo": "Hulk",
+      "preco": "199.00",
+      "id": "3"
+    },
+    {
+      "imagem": "assets/img/thor.png",
+      "titulo": "Thor",
+      "preco": "199.00",
+      "id": "4"
+    },
+    {
+      "imagem": "assets/img/superman.png",
+      "titulo": "Superman",
+      "preco": "189.00",
+      "id": "5"
+    },
+    {
+      "imagem": "assets/img/thanos.png",
+      "titulo": "Thanos",
+      "preco": "189.00",
+      "id": "6"
+    },
+    {
+      "imagem": "assets/img/iron-spider.png",
+      "titulo": "Iron Spider",
+      "preco": "199.00",
+      "id": "7"
+    },
+    {
+      "imagem": "assets/img/the-joker.png",
+      "titulo": "The Joker",
+      "preco": "198.00",
+      "id": "8"
+    },
+    {
+      "imagem": "assets/img/iron-man.png",
+      "titulo": "Iron Man",
+      "preco": "189.00",
+      "id": "9"
+    }
+  ]
+}
